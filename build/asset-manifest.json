@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/homedog_vday/static/css/main.f99673fc.css",
+    "main.js": "/homedog_vday/static/js/main.ca51be7b.js",
+    "static/js/787.3503cf78.chunk.js": "/homedog_vday/static/js/787.3503cf78.chunk.js",
+    "static/media/mel_heart.gif": "/homedog_vday/static/media/mel_heart.c2d7f0de667822b7af24.gif",
+    "static/media/pen.gif": "/homedog_vday/static/media/pen.0fb91be9b6e8c973dc62.gif",
+    "static/media/kerropi.webp": "/homedog_vday/static/media/kerropi.6990ecd51915fc6aad0e.webp",
+    "static/media/melodykiss.gif": "/homedog_vday/static/media/melodykiss.04905dc9b6fce3908839.gif",
+    "static/media/melody.gif": "/homedog_vday/static/media/melody.4f7db515fab8a9ea6be1.gif",
+    "static/media/cat.svg": "/homedog_vday/static/media/cat.1b5eb61885c50408cc79d5ed770c7cff.svg",
+    "static/media/profile_pic.JPEG": "/homedog_vday/static/media/profile_pic.1d4ef8e8a45680a116e2.JPEG",
+    "static/media/Alex_Resume.pdf": "/homedog_vday/static/media/Alex_Resume.398e392197beb7125fba.pdf",
+    "static/media/profile_pic2.JPEG": "/homedog_vday/static/media/profile_pic2.ee2c0f7d7f286b8c082e.JPEG",
+    "static/media/hello_kitty.gif": "/homedog_vday/static/media/hello_kitty.7161ee924d830799eb8a.gif",
+    "static/media/sanrio_background.webp": "/homedog_vday/static/media/sanrio_background.0d7e6d4918b9073404e5.webp",
+    "static/media/bat.gif": "/homedog_vday/static/media/bat.da291174f55bee3f9ede.gif",
+    "static/media/pom_two.gif": "/homedog_vday/static/media/pom_two.743250c50aeb5dbd7fbf.gif",
+    "static/media/city.svg": "/homedog_vday/static/media/city.b784a4115d164d3f47faddc234f29221.svg",
+    "index.html": "/homedog_vday/index.html",
+    "main.f99673fc.css.map": "/homedog_vday/static/css/main.f99673fc.css.map",
+    "main.ca51be7b.js.map": "/homedog_vday/static/js/main.ca51be7b.js.map",
+    "787.3503cf78.chunk.js.map": "/homedog_vday/static/js/787.3503cf78.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f99673fc.css",
+    "static/js/main.ca51be7b.js"
+  ]
+}
